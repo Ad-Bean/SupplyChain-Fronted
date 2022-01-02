@@ -175,7 +175,6 @@ function DashboardContent() {
                     p: 2,
                     display: "flex",
                     flexDirection: "column",
-                    height: 240,
                   }}
                 >
                   <Infomation />
@@ -189,7 +188,6 @@ function DashboardContent() {
                       p: 2,
                       display: "flex",
                       flexDirection: "column",
-                      height: 240,
                     }}
                   >
                     <MoreInfomation />
