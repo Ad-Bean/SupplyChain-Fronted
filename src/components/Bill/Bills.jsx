@@ -42,9 +42,9 @@ export default function Bills() {
     return (
       d.getFullYear() +
       "/" +
-      (d.getDate() + 1) +
+      (d.getMonth() + 1) +
       "/" +
-      d.getDay() +
+      d.getDate() +
       " " +
       d.getHours() +
       ":" +
